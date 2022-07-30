@@ -17,6 +17,6 @@
 
 ## :camera: Screenshot
 
-![screenshot](./screenshots/screenshot_1.PNG.png)
-![screenshot](./screenshots/screenshot_2.PNG.png)
-![screenshot](./screenshots/screenshot_3.PNG.png)
+![screenshot](./screenshots/screenshot_1.PNG)
+![screenshot](./screenshots/screenshot_2.PNG)
+![screenshot](./screenshots/screenshot_3.PNG)
